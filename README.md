@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Sabrina Murphy / scm56@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   Item 1
+*   Item 2
+*   Item 3
 
 ---
 Make some changes locally.  I want to add  a sentence.
